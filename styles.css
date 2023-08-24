@@ -1,10 +1,11 @@
 /*  your css code here. If applicable */
  table{
 	 background:yellow;
-border-collapse:collapse;
-	 width:100%
+	  border: 1px solid black;
+/* border-collapse:collapse; */
+	 width:auto;
  }
-th, td {
+th, td ,tr  {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
